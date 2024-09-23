@@ -2,7 +2,7 @@
 
 **Ali Raza**  
 Bachelor of Science in Computer Science  
-Email: [your.email@example.com]  
+Email: [info@aliraza.xyz]  
 Date: September 23, 2024
 
 ---
